@@ -1,0 +1,63 @@
+C:\Users\vitor\source\repos\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe.config
+C:\Users\vitor\source\repos\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe
+C:\Users\vitor\source\repos\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.pdb
+C:\Users\vitor\source\repos\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.Form1.resources
+C:\Users\vitor\source\repos\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.Properties.Resources.resources
+C:\Users\vitor\source\repos\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.exe
+C:\Users\vitor\source\repos\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.pdb
+C:\Users\vitor\source\repos\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe.config
+C:\Users\vitor\source\repos\A0_WEBDESK\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe
+C:\Users\vitor\source\repos\A0_WEBDESK\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.pdb
+C:\Users\vitor\source\repos\A0_WEBDESK\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.Form1.resources
+C:\Users\vitor\source\repos\A0_WEBDESK\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.Properties.Resources.resources
+C:\Users\vitor\source\repos\A0_WEBDESK\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.exe
+C:\Users\vitor\source\repos\A0_WEBDESK\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.pdb
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe.config
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.pdb
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.FaleConoscoForm.resources
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.Properties.Resources.resources
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.exe
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.pdb
+C:\Users\vitor\source\repos\A0_WEBDESK\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe.config
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.pdb
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.FaleConoscoForm.resources
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.Properties.Resources.resources
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.GenerateResource.cache
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.exe
+C:\Users\vitor\Documents\A0_NutriFit_2019\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.pdb
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe.config
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.pdb
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.FaleConoscoForm.resources
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.Properties.Resources.resources
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.GenerateResource.cache
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.exe
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.pdb
+D:\DOCUMENTOS\TCC\GRUPO\WEB\DeskWeb - Integracao_Separada\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csprojAssemblyReference.cache
+D:\A1\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csprojAssemblyReference.cache
+D:\A1\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.FaleConoscoForm.resources
+D:\A1\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.Properties.Resources.resources
+D:\A1\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.GenerateResource.cache
+D:\A1\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.exe
+D:\A1\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.pdb
+D:\A1\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe.config
+D:\A1\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.exe
+D:\A1\FaleConosco_System\FaleConosco_System\bin\Debug\FaleConosco_System.pdb
+D:\A1\FaleConosco_System\FaleConosco_System\bin\Debug\BLL.dll
+D:\A1\FaleConosco_System\FaleConosco_System\bin\Debug\DAO.dll
+D:\A1\FaleConosco_System\FaleConosco_System\bin\Debug\BLL.pdb
+D:\A1\FaleConosco_System\FaleConosco_System\bin\Debug\DAO.pdb
+D:\A1\FaleConosco_System\FaleConosco_System\obj\Debug\FaleConosco_System.csproj.CopyComplete
