@@ -43,7 +43,8 @@ Resposta VARCHAR(300),
 
 Encontre esse trecho de código:
 ```c#
-public string strConn = @"server = localhost; database = SUPLEMENTOS; user = MEU USUARIO; password = MINHA SENHA; MultipleActiveResultSets=True";public string strConn = @"server = localhost; database = SUPLEMENTOS; user = MEU USUARIO; password = MINHA SENHA; MultipleActiveResultSets=True";
+
+public string strConn = @"server = localhost; database = SUPLEMENTOS; user = MEU USUARIO; password = MINHA SENHA; MultipleActiveResultSets=True";
 
 ```
  * Altere **MEU USUARIO** e **MINHA SENHA** para o usuário e senha do SQL Server.
@@ -91,4 +92,4 @@ Esse programa controla e envia as mensagens para os emails cadastrados no banco 
 * **Angelo Barroso**
 
 ### Licença
-Este projeto está licenciado sob a licença MIT - Veja o arquivo [LICENSE]() para detalhes.
+Este projeto está licenciado sob a licença MIT - Veja o arquivo [LICENSE](LICENSE) para detalhes.
